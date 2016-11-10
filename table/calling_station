@@ -1,0 +1,11 @@
+# calling station
+
+player-count 5
+strategy-count 1
+load-strategy 0 calling-station
+
+set-strategy 0 0
+set-strategy 1 0
+set-strategy 2 0
+set-strategy 3 0
+set-strategy 4 0

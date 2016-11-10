@@ -1,0 +1,16 @@
+# calling station
+
+player-count 9
+strategy-count 2
+load-strategy 0 strategies/tight_aggressive
+load-strategy 1 calling-station
+
+set-strategy 0 0
+set-strategy 1 0
+set-strategy 2 0
+set-strategy 3 0
+set-strategy 4 0
+set-strategy 5 0
+set-strategy 6 0
+set-strategy 7 0
+set-strategy 8 1
